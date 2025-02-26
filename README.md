@@ -1,5 +1,5 @@
-# Título del proyecto
+# Veterinaria Gala
 
-## Subtítulo del proyecto
+## A tus órdenes
 
 [Link a mi proyecto](https://vviguerashd.github.io/clase7/)
